@@ -1,0 +1,14 @@
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\bin\Debug\net8.0\Olimpiadas.exe
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\bin\Debug\net8.0\Olimpiadas.deps.json
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\bin\Debug\net8.0\Olimpiadas.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\bin\Debug\net8.0\Olimpiadas.dll
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\bin\Debug\net8.0\Olimpiadas.pdb
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Olimpiadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Olimpiadas.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Olimpiadas.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Olimpiadas.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Olimpiadas.dll
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\refint\Olimpiadas.dll
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Olimpiadas.pdb
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Olimpiadas.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\ref\Olimpiadas.dll

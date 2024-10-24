@@ -1,0 +1,4 @@
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Atleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Atleta.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Atleta.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Olimpiadas\obj\Debug\net8.0\Atleta.csproj.CoreCompileInputs.cache

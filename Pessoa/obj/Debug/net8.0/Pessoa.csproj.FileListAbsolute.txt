@@ -1,0 +1,14 @@
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\bin\Debug\net8.0\Pessoa.exe
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\bin\Debug\net8.0\Pessoa.deps.json
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\bin\Debug\net8.0\Pessoa.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\bin\Debug\net8.0\Pessoa.dll
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\bin\Debug\net8.0\Pessoa.pdb
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\Pessoa.dll
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\refint\Pessoa.dll
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\Pessoa.pdb
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\Pessoa.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\lista-01-sdm-2024\Pessoa\obj\Debug\net8.0\ref\Pessoa.dll
